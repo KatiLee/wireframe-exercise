@@ -1,0 +1,30 @@
+img {
+    padding: 15px;
+    }
+header {
+    background-color: rgb(43, 30, 30);
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+ }
+
+body {
+    background-color: rgb(43, 30, 30);
+}
+h1{
+    align-items: center;
+}
+h2 {
+    display: flex;
+}
+h3  {
+    height: 480px;
+    width: 400px;
+    overflow: auto;
+    float: right;
+    position: relative;
+    margin-left: 200px;
+    color: azure;
+}
